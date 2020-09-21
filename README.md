@@ -1,0 +1,3 @@
+# DQLab-Project
+DQLab Project
+DQLab adalah kursus data science online membantu peserta belajar data science secara praktis & aplikatif berbasis project. Semua keahlian yang dibutuhkan menjadi seorang Data Scientist bisa didapatkan dengan bergabung di program DQLab. Peserta akan belajar mengelola kompleksitas data menggunakan project, dan dataset yang mencerminkan kebutuhan industri. Program DQLab dapat diakses online, dimana peserta dapat belajar kapanpun, dimanapun, secara flexible dengan lebih dari 300 komunitas praktisi Industri & Data yang terhubung dan siap membantu dan menjawab pertanyaan
